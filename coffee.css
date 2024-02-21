@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Montserrat:wght@100&family=Ms+Madi&family=Oxygen&family=Poppins:wght@100&family=Roboto+Flex:opsz,wght@8..144,300&family=Tapestry&family=Water+Brush&family=Whisper&display=swap');
+
+.wrapper{
+    background-color: #EEE9E4;
+}
+.header{
+    width: 100%;
+    margin-top: 0px;
+    height: 160px;
+    position: relative;
+
+}
+a{
+    color: white;
+    padding-right: 20px;
+}
+
+.header1{
+    width: 100%;
+    height: 30px;
+    background-color: rgba(59, 18, 2, 0.966);
+    text-align: right;
+    color: white;
+    position: absolute;
+    padding: 5px;
+}
+.headerla:hover{
+    color: rgba(212, 124, 89, 0.966);
+}
+
+.header2{
+    width:100%;
+    height:100px;
+    background-color:rgb(243, 240, 230);
+    margin-top: 40px;
+    position: absolute;
+    
+}
+
+.headerl:hover{
+    font-size: 25px;
+}
+
+.logo{
+width: 10%;
+height: 70px;
+margin-left: 900px;
+}
+
+
+.background{
+    width: 100%;
+    height: 700px;
+    background-image: url(./images/cof.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -39px;
+    text-align: center;
+    position: relative;
+}
+.caption{
+    color:whitesmoke;
+    margin-top: 190px;
+    position: absolute;
+    font-size: xx-large;
+    margin-left: 1200px;
+}
+
+.headerlink1 {
+    margin-left: 150px;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    position: absolute;
+    font-size: x-large;
+    font-family:sans-serif;
+}
+.headerlink2 {
+    margin-left: 350px;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    position: absolute;
+    font-size: x-large;
+    font-family:sans-serif;
+}
+.headerlink3 {
+    margin-left: 570px;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    position: absolute;
+    font-size: x-large;
+    font-family:sans-serif;
+}
+
+.headerlink4 {
+    margin-left: 1200px;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    position: absolute;
+    font-size: x-large;
+    font-family:sans-serif;
+}
+
+.headerlink5 {
+    margin-left: 1400px;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    position: absolute;
+    font-size: x-large;
+    font-family:sans-serif;
+}
+
+.headerlink6 {
+    margin-left: 1600px;
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    position: absolute;
+    font-size: x-large;
+    font-family:sans-serif;
+}
+
+.slogan{
+    margin-left: 800px;
+    font-size:70px;
+    font-family: 'Playfair Display',arial,serif;
+    margin-top: 10px;
+}
+
+.parent1{
+    width:80%;
+    height:650px;
+    /* background-color: rgb(17, 0, 0); */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 200px;
+
+}
+.col{
+    width:23%;
+    height: 500px;
+    /* border: tomato 1px solid; */
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    font-family:'Roboto Flex', sans-serif;
+}
+
+
+.prod{
+    width: 100%;
+    height:500px;
+    border-radius: 10px;
+}
+.prod:hover{
+    box-shadow: 10px 10px #ada6a6;
+    border-radius: 10px;
+   
+}
+
+.colt:hover{
+    color: rgb(134, 72, 13);
+
+}
+
+.parent2{
+    width:80%;
+    height:650px;
+    /* background-color: rgb(17, 0, 0); */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 200px;
+    
+
+}
+
+.coll{
+    width:50%;
+    height: 500px;
+    /* border: tomato 1px solid; */
+    padding: 10px;
+    
+    text-align: center;
+    font-family:'Roboto Flex', sans-serif;
+}
+
+button{
+    width:170px;
+    height:65px;
+    margin-left: -380px;
+    /* margin-bottom: 20%; */
+    font-size: 15px;
+    border: 2px solid rgb(230, 230, 230);;
+    border-color: rgb(184, 137, 91);
+}
+
+button:hover{
+    background-color:rgb(184, 137, 91);
+}
+
+.beans{
+    width:30%;
+    margin-left: 757px;
+    margin-top: -456px;
+}
+
+.footer{
+    width:100%;
+    height:200px;
+    background-color: rgb(185, 178, 178);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* margin-left: 200px; */
+    
+
+}
+
+.colf{
+    width:23%;
+    height: 200px;
+    padding: 10px;
+    position: relative;
+    text-align: left;
+    margin-left: 30px;
+    font-family:'Roboto Flex', sans-serif;
+
+}
+
+.colf a:hover{
+    color: teal;
+}
+
+.getint{
+    width:100%;
+    height:400px;
+    color: rgb(54, 51, 51);
+    font-size: xx-large;
+}
+
+.get{
+    background-color: indigo;
+}
